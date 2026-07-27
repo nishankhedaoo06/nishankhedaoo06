@@ -1,202 +1,601 @@
-<h1 align="center">Hi 👋, I'm Nishank Hedaoo</h1>
+<div align="center">
 
-<h3 align="center">
-Java Full Stack Developer | Spring Boot | React.js | Hibernate | MySQL
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Nishank%20Hedaoo&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Java%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58&animation=fadeIn"/>
 
-<p align="center">
-Currently pursuing <b>PG-DAC</b> at <b>Centre for Development of Advanced Computing (C-DAC), Mumbai</b>.
+# Hi, I'm Nishank Hedaoo 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+
+<p>
+
+<a href="https://github.com/nishankhedaoo06">
+<img src="https://img.shields.io/badge/GitHub-nishankhedaoo06-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nishankhedaoo">
+<img src="https://img.shields.io/badge/LinkedIn-Nishank_Hedaoo-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nishankhedaoo830@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/tb9AxFNdtm/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </p>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=nishankhedaoo06&style=for-the-badge&color=7B3FF2"/>
+
+<img src="https://img.shields.io/github/followers/nishankhedaoo06?style=for-the-badge&color=7B3FF2"/>
+
+<img src="https://img.shields.io/github/stars/nishankhedaoo06?style=for-the-badge&color=7B3FF2"/>
+
+</p>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-💻 Passionate Java Full Stack Developer who enjoys building scalable web applications using Java, Spring Boot, React.js, Hibernate, and MySQL.
+I'm **Nishank Hedaoo**, a Software Engineer passionate about building scalable backend systems, modern full-stack applications, and AI-powered solutions.
 
-🌱 Currently pursuing **PG-DAC** from **C-DAC Mumbai**, strengthening my expertise in backend development, REST APIs, databases, and software engineering.
+Currently pursuing **PG-DAC** while strengthening my expertise in **Java**, **Spring Boot**, **React**, **Microservices**, and **Cloud Technologies**.
 
-🚀 Interested in designing efficient backend systems and developing complete full-stack applications.
+My academic background in **Artificial Intelligence** combined with practical experience in **Web Development**, **Machine Learning**, and **Software Engineering** enables me to design applications that are reliable, scalable, and user-focused.
+
+I enjoy solving challenging problems, learning modern technologies, and contributing to impactful software products.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Open To
 
-🌱 Learning
-
-- Spring Boot
-- Microservices
-- Docker
-- System Design
-- Cloud Computing
-
-🚀 Building
-
-- Farmer to Customer (F2C) E-Commerce Platform
-- REST APIs
-- Full Stack Java Applications
-
-🤝 Open To
-
-- Java Full Stack Developer Roles
-- Backend Developer Roles
-- Software Engineering Opportunities
+- Software Engineer Roles
+- Java Backend Development
+- Full Stack Development
+- Spring Boot Development
+- REST API Development
+- AI & Machine Learning Projects
 - Open Source Collaboration
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+## Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=java,python,cs,javascript,html,css,mysql,postgres"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+</p>
 
-### Backend
+---
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
+## Backend Development
 
-### Database
+<p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,maven"/>
 
-### Tools
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+**Also Experienced With**
 
+- Spring MVC
+- Spring Data JPA
+- REST APIs
+- JDBC
+- Microservices (Learning)
+
+---
+
+## Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/>
+
+</p>
+
+---
+
+## AI • Machine Learning • Analytics
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,python"/>
+
+</p>
+
+- YOLOv5
+- OCR
+- CNN
+- NLP
+- Pandas
+- NumPy
+- Power BI
+- Tableau
+- Data Visualization
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+</p>
+
+---
+
+## Cloud • DevOps • Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,eclipse,idea"/>
+
+</p>
+
+Also familiar with
+
+- GitHub Actions
+- Postman
+- Selenium
+- Software Testing
+
+---
+
+# 🧠 AI / Machine Learning Expertise
+
+| Domain | Proficiency | Details |
+|---------|------------|---------|
+| Computer Vision | ⭐⭐⭐⭐☆ | YOLOv5, CNN, OCR |
+| Machine Learning | ⭐⭐⭐⭐☆ | TensorFlow, NumPy, Pandas |
+| Natural Language Processing | ⭐⭐⭐☆☆ | Python, NLTK, Chatbot Development |
+| Deep Learning | ⭐⭐⭐⭐☆ | CNN Models, Image Classification |
+| Data Analytics | ⭐⭐⭐⭐☆ | Power BI, Tableau, SQL |
+| Database Systems | ⭐⭐⭐⭐☆ | MySQL, PostgreSQL |
+| Software Engineering | ⭐⭐⭐⭐☆ | Java, Spring Boot, Hibernate |
+| Full Stack Development | ⭐⭐⭐⭐☆ | React, JavaScript, Spring Boot |
+
+---
+
+# 🎯 Professional Highlights
+
+- 🎓 B.Tech in Artificial Intelligence
+- 📚 Currently pursuing PG-DAC
+- 💼 Former Web Developer Intern
+- 🤖 Former AI & ML Intern
+- ☕ Passionate Java Developer
+- 🌱 Learning Microservices & Docker
+- 🚀 Building Full Stack Enterprise Applications
+- 💡 Strong foundation in DBMS, OOP, OS & Software Engineering
+
+---
+
+> *"Great software isn't just about writing code—it's about solving real-world problems through thoughtful engineering."*
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 Farmer to Customer (F2C) E-Commerce Platform
+<details open>
+<summary><b>🎂 Cake Bakery Management System</b></summary>
 
-**Tech Stack**
+### Enterprise Full Stack Bakery Management Platform
 
-Java • Spring Boot • React.js • MySQL • Spring Data JPA • REST APIs
+A modern full-stack web application built using **Spring Boot**, **React**, and **MySQL** to streamline bakery operations. The system manages customers, products, orders, inventory, and administrative workflows through a responsive user interface and secure REST APIs.
 
-Developed a scalable Java Full Stack agricultural e-commerce platform following a 3-tier layered architecture to connect farmers directly with customers.
+| Category | Details |
+|-----------|---------|
+| **Technology** | Java, Spring Boot, React.js, JavaScript, MySQL |
+| **Architecture** | RESTful APIs, MVC Pattern |
+| **Features** | Authentication, Product Management, Order Management, Customer Management |
+| **Scalability** | Modular Architecture with Separate Frontend & Backend |
+| **Status** | 🚧 Currently Under Development |
+| **Repository** | https://github.com/nishankhedaoo06/Cake-Bakery-Management-System- |
+
+### Highlights
+
+- Responsive React Frontend
+- Spring Boot REST API
+- MySQL Database Integration
+- CRUD Operations
+- Clean MVC Architecture
+- Enterprise Coding Practices
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 Automatic Signature & Photo Detection using AI & OCR</b></summary>
+
+### Intelligent Document Verification System
+
+Developed an AI-powered document verification solution using **YOLOv5**, **OCR**, and **Siamese CNN** for automatic signature and photograph detection. The application significantly reduces manual verification effort while improving accuracy.
+
+| Category | Details |
+|-----------|---------|
+| **Technology** | Python, YOLOv5, OCR, Siamese CNN |
+| **Domain** | Computer Vision |
+| **Accuracy** | 93% Detection Accuracy |
+| **Security** | AI-assisted Document Validation |
+| **Impact** | Automated Manual Verification |
+| **Repository** | https://github.com/nishankhedaoo06/Automatic-signature-and-photo-detection-from-the-uploaded-document-using-AI-and-OCR |
+
+### Key Features
+
+- AI-based Signature Detection
+- Photograph Detection
+- OCR Integration
+- Deep Learning Model
+- Automated Verification
+- Improved Processing Speed
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 MarketSense – Power BI Dashboard</b></summary>
+
+### Business Intelligence Dashboard
+
+Designed an interactive Business Intelligence dashboard to visualize e-commerce sales performance using **Power BI**.
+
+| Category | Details |
+|-----------|---------|
+| **Technology** | Power BI, SQL |
+| **Visualization** | Interactive Dashboards |
+| **Features** | KPIs, Drilldowns, Filters |
+| **Business Value** | Sales Insights |
+| **Repository** | https://github.com/nishankhedaoo06/Market-Sesnse-Power-BI-dashboard- |
+
+### Dashboard Features
+
+- Interactive Charts
+- Dynamic Filters
+- KPI Monitoring
+- Sales Trend Analysis
+- Regional Performance
+- Customer Insights
+
+</details>
+
+---
+
+<details>
+<summary><b>💬 AI Chatbot using NLP</b></summary>
+
+### Natural Language Processing Chatbot
+
+Developed an intelligent chatbot using **Python** and **NLTK** capable of responding to user queries through Natural Language Processing techniques.
+
+| Category | Details |
+|-----------|---------|
+| **Technology** | Python, NLTK |
+| **Domain** | NLP |
+| **Capabilities** | Intent Recognition, Text Processing |
+| **Repository** | https://github.com/nishankhedaoo06/-Task--01-Chat-Bot-Machine-Learning-Internship-by-SYNC-INTERN-s- |
 
 ### Features
 
-- 👨‍🌾 Farmer, Customer & Admin Modules
-- 🛒 Shopping Cart
-- 📦 Order Management
-- 🔐 Role-Based Access Control (RBAC)
-- 💳 Payment Workflow
-- 📊 Inventory Management
-- 🗄️ MySQL Database with Spring Data JPA
+- NLP-based Responses
+- Intent Recognition
+- Text Processing
+- Interactive Chat Experience
 
-🔗 Repository
-
-https://github.com/nishankhedaoo06/F2C_Farmer2Customer
+</details>
 
 ---
 
-## 🤖 AI Powered Photo & Signature Verification using OCR
+<details>
+<summary><b>🌿 Plant Disease Detection using Deep Learning</b></summary>
 
-**Tech Stack**
+### AI-powered Plant Disease Classification
 
-Python • Flask • OpenCV • YOLOv5 • OCR • SQLite
+Created a CNN-based deep learning model capable of identifying plant diseases from leaf images using TensorFlow.
 
-Built a Flask-based AI-powered identity verification system using OpenCV and YOLOv5.
+| Category | Details |
+|-----------|---------|
+| **Technology** | Python, TensorFlow, CNN |
+| **Domain** | Deep Learning |
+| **Use Case** | Agriculture AI |
+| **Repository** | https://github.com/nishankhedaoo06/TASK---01-Week-01-02-Plant-disease-Detection-SYNC-INTERN-s |
 
-### Features
+### Highlights
 
-- 🤖 Automated signature matching
-- 👤 Face verification for authentication
-- 📄 YOLOv5-based signature detection
-- 🔍 OCR-powered document processing
-- 🔐 Secure file upload and verification
-- 🗄️ SQLite database integration
-- 🌐 Complete Flask full-stack workflow
+- Image Classification
+- TensorFlow CNN
+- Agricultural AI
+- Disease Prediction
 
-🔗 Repository
-
-https://github.com/nishankhedaoo06/Automatic-signature-and-photo-detection-from-the-uploaded-document-using-AI-and-OCR
-
----
-
-## 📊 MarketSense Business Intelligence Dashboard
-
-Power BI • SQL • Excel
-
-Interactive dashboard for online sales analysis using KPIs, dynamic charts, SQL queries, filters, and business insights.
-
-🔗 Repository
-
-https://github.com/nishankhedaoo06/Market-Sesnse-Power-BI-dashboard-
+</details>
 
 ---
 
-## 💬 Machine Learning ChatBot
+# 💼 Professional Experience
 
-Python • NLP • Machine Learning
+## 💻 Web Developer Intern
 
-Python-based chatbot developed using Machine Learning and Natural Language Processing concepts.
+### Xceller IT Services
 
-🔗 Repository
+**August 2023 – February 2024**
 
-https://github.com/nishankhedaoo06/-Task--01-Chat-Bot-Machine-Learning-Internship-by-SYNC-INTERN-s-
+Designed and developed responsive websites using HTML, CSS, and Bootstrap while collaborating with backend developers to create dynamic and user-friendly web applications.
+
+### Responsibilities
+
+- Designed responsive web pages
+- Built reusable UI components
+- Improved website performance
+- Optimized browser compatibility
+- Worked closely with development teams
+
+**Skills**
+
+`HTML` `CSS` `Bootstrap` `JavaScript` `Git`
 
 ---
 
-# 📈 GitHub Statistics
+## 🤖 AI & Machine Learning Intern
+
+### SYNC's Intern
+
+**April 2023 – June 2023**
+
+Worked on real-world AI projects involving Computer Vision, Machine Learning, and NLP.
+
+### Projects
+
+- Plant Disease Detection
+- Face Mask Detection
+- AI Chatbot
+- MNIST Digit Recognition
+
+**Skills**
+
+`Python`
+`TensorFlow`
+`Deep Learning`
+`Computer Vision`
+`NLP`
+
+---
+
+# 🏆 Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| 🎓 AI Engineering Graduate | Bachelor's Degree in Artificial Intelligence |
+| 💼 Professional Internship | Successfully completed Web Development Internship |
+| 🤖 AI Internship | Built multiple Machine Learning Applications |
+| 🚀 Full Stack Developer | Developing enterprise applications using Spring Boot & React |
+| 📊 Data Analytics | Built Business Intelligence dashboards using Power BI |
+| 🌱 Continuous Learner | Currently pursuing PG-DAC while mastering modern backend technologies |
+
+---
+
+# 📜 Certifications
+
+## Microsoft / Simplilearn
+
+- ✅ Power BI
+- ✅ Data Analytics
+
+---
+
+## IBM
+
+- ✅ Deep Learning Fundamentals
+- ✅ IBM Cloud Badge
+- ✅ Introduction to Cloud
+
+---
+
+## Udemy
+
+- ✅ SQL for Data Analysis and Data Science
+
+---
+
+## Great Learning
+
+- ✅ Python Programming
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishankhedaoo06&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/nishankhedaoo06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishankhedaoo06&layout=compact&theme=tokyonight"/>
+<a href="https://leetcode.com/u/tb9AxFNdtm/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishankhedaoo06&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/nishankhedaoo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 Career Objective
 
-📧 Email
+> Passionate about building scalable software solutions that combine clean architecture, efficient backend systems, intuitive user experiences, and AI-powered innovations. My goal is to contribute to impactful engineering teams while continuously learning and adopting modern technologies.
+---
 
-nishankhedao0830@gmail.com
+# 📊 GitHub Analytics
 
-🔗 LinkedIn
+<div align="center">
 
-https://www.linkedin.com/in/nishankhedaoo
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishankhedaoo06&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
 
-💻 GitHub
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishankhedaoo06&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-https://github.com/nishankhedaoo06
-
-🧩 LeetCode
-
-https://leetcode.com/u/tb9AxFNdtm/
+</div>
 
 ---
 
-<p align="center">
+# 🔥 GitHub Streak
 
-⭐ Thanks for visiting my profile! ⭐
+<div align="center">
 
-</p>
+<img src="https://streak-stats.demolab.com?user=nishankhedaoo06&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nishankhedaoo06&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishankhedaoo06&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nishankhedaoo06/nishankhedaoo06/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+> **Note:** To make the snake animation work, you'll need to add a GitHub Actions workflow. I can generate that workflow for you later.
+
+---
+
+# ⚡ Current Focus
+
+```yaml
+learning:
+  - Spring Boot
+  - Microservices
+  - Docker
+  - System Design
+
+building:
+  - Cake Bakery Management System
+  - REST APIs
+  - Full Stack Java Applications
+
+exploring:
+  - Cloud Computing
+  - Distributed Systems
+  - CI/CD Pipelines
+
+open_to:
+  - Software Engineer Roles
+  - Java Backend Development
+  - Full Stack Development
+  - Open Source Collaboration
+```
+
+---
+
+# 📚 Currently Learning Roadmap
+
+```text
+Java Core
+    │
+    ▼
+Spring Boot
+    │
+    ▼
+Spring Security
+    │
+    ▼
+Microservices
+    │
+    ▼
+Docker
+    │
+    ▼
+Kubernetes
+    │
+    ▼
+AWS
+    │
+    ▼
+System Design
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:nishankhedaoo830@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nishankhedaoo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nishankhedaoo06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/tb9AxFNdtm/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Code with purpose. Learn continuously. Build solutions that create impact."**
+
+I believe great software is built through curiosity, collaboration, and continuous improvement. Every project is an opportunity to solve meaningful problems, write cleaner code, and grow as an engineer.
+
+---
+
+# 📌 Fun Facts
+
+- ☕ Java is my primary programming language.
+- 🚀 I enjoy building scalable backend systems with Spring Boot.
+- 🤖 My academic background is in Artificial Intelligence.
+- 🌐 I like combining AI with modern web development.
+- 📊 I enjoy turning raw data into actionable insights using Power BI.
+- 🎯 My current goal is to become a skilled Software Engineer and Full Stack Java Developer.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects interesting, consider giving them a ⭐ and connecting with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+
+</div>
