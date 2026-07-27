@@ -88,7 +88,8 @@ I enjoy solving challenging problems, learning modern technologies, and contribu
 
 - Spring MVC
 - Spring Data JPA
-- REST APIs
+- AI Identity Verification System
+  - REST APIs
 - JDBC
 - Microservices (Learning)
 
@@ -155,7 +156,7 @@ Also familiar with
 
 | Domain | Proficiency | Details |
 |---------|------------|---------|
-| Computer Vision | ⭐⭐⭐⭐☆ | YOLOv5, CNN, OCR |
+| Computer Vision & Identity Verification | ⭐⭐⭐⭐☆ | YOLOv5, CNN, OCR |
 | Machine Learning | ⭐⭐⭐⭐☆ | TensorFlow, NumPy, Pandas |
 | Natural Language Processing | ⭐⭐⭐☆☆ | Python, NLTK, Chatbot Development |
 | Deep Learning | ⭐⭐⭐⭐☆ | CNN Models, Image Classification |
@@ -185,28 +186,32 @@ Also familiar with
 # 🚀 Featured Projects
 
 <details open>
-<summary><b>🎂 Cake Bakery Management System</b></summary>
+<summary><b>🌾 F2C Farmer2Customer</b></summary>
 
-### Enterprise Full Stack Bakery Management Platform
+### Direct Agricultural Marketplace
 
-A modern full-stack web application built using **Spring Boot**, **React**, and **MySQL** to streamline bakery operations. The system manages customers, products, orders, inventory, and administrative workflows through a responsive user interface and secure REST APIs.
+A modern full-stack agricultural marketplace built using **Java**, **Spring Boot Microservices**, **React.js**, **MySQL**, **Spring Data JPA**, **REST APIs**, and **.NET Microservices**. The platform connects farmers directly with customers, eliminating intermediaries while providing a scalable, secure, and user-friendly e-commerce experience.
 
 | Category | Details |
 |-----------|---------|
-| **Technology** | Java, Spring Boot, React.js, JavaScript, MySQL |
-| **Architecture** | RESTful APIs, MVC Pattern |
-| **Features** | Authentication, Product Management, Order Management, Customer Management |
-| **Scalability** | Modular Architecture with Separate Frontend & Backend |
+| **Technology** | Java, Spring Boot, React.js, MySQL, Spring Data JPA, REST APIs, .NET Microservices |
+| **Architecture** | Three-Tier Architecture, Microservices |
+| **Features** | Authentication, Role-Based Access Control, Product Management, Shopping Cart, Order Processing, Inventory Management, Order Tracking, Payment Integration |
+| **Scalability** | Modular Microservices Architecture |
 | **Status** | 🚧 Currently Under Development |
-| **Repository** | https://github.com/nishankhedaoo06/Cake-Bakery-Management-System- |
+| **Repository** | https://github.com/nishankhedaoo06/F2C_Farmer2Customer |
 
 ### Highlights
 
-- Responsive React Frontend
-- Spring Boot REST API
+- Farmer to Customer Direct Marketplace
+- Spring Boot Microservices Architecture
+- React.js Responsive Frontend
+- Secure Authentication & Authorization
+- Product & Inventory Management
+- Shopping Cart & Order Processing
+- RESTful APIs
 - MySQL Database Integration
-- CRUD Operations
-- Clean MVC Architecture
+- .NET Payment Microservice
 - Enterprise Coding Practices
 
 </details>
@@ -218,25 +223,23 @@ A modern full-stack web application built using **Spring Boot**, **React**, and 
 
 ### Intelligent Document Verification System
 
-Developed an AI-powered document verification solution using **YOLOv5**, **OCR**, and **Siamese CNN** for automatic signature and photograph detection. The application significantly reduces manual verification effort while improving accuracy.
+Built a Flask-based AI-powered identity verification system using **OpenCV**, **YOLOv5**, **Flask**, and **SQLite** for intelligent document and user verification.
 
 | Category | Details |
 |-----------|---------|
-| **Technology** | Python, YOLOv5, OCR, Siamese CNN |
-| **Domain** | Computer Vision |
-| **Accuracy** | 93% Detection Accuracy |
-| **Security** | AI-assisted Document Validation |
-| **Impact** | Automated Manual Verification |
-| **Repository** | https://github.com/nishankhedaoo06/Automatic-signature-and-photo-detection-from-the-uploaded-document-using-AI-and-OCR |
+| **Technology** | Python, Flask, OpenCV, YOLOv5, SQLite |
+| **Domain** | Computer Vision & Identity Verification |
+| **Accuracy** | Signature Detection, Face Verification, Secure File Uploads, Document Verification |
+| **Security** | Full Stack Flask Application |
+| **Impact** | https://github.com/nishankhedaoo06/Automatic-photo-and-signature-detection-using-AI- |
+| **Repository** | https://github.com/nishankhedaoo06/Automatic-photo-and-signature-detection-using-AI- |
 
-### Key Features
+### Highlights
 
-- AI-based Signature Detection
-- Photograph Detection
-- OCR Integration
-- Deep Learning Model
-- Automated Verification
-- Improved Processing Speed
+- Built a Flask-based AI-powered identity verification system using OpenCV and YOLOv5.
+- Implemented automated signature matching and face verification for user authentication.
+- Integrated YOLOv5 for signature detection and extraction from scanned documents.
+- Developed a complete full-stack workflow with Flask, SQLite, secure file handling, and document verification.
 
 </details>
 
@@ -350,7 +353,7 @@ Designed and developed responsive websites using HTML, CSS, and Bootstrap while 
 
 **April 2023 – June 2023**
 
-Worked on real-world AI projects involving Computer Vision, Machine Learning, and NLP.
+Worked on real-world AI projects involving Computer Vision & Identity Verification, Machine Learning, and NLP.
 
 ### Projects
 
@@ -364,7 +367,7 @@ Worked on real-world AI projects involving Computer Vision, Machine Learning, an
 `Python`
 `TensorFlow`
 `Deep Learning`
-`Computer Vision`
+`Computer Vision & Identity Verification`
 `NLP`
 
 ---
@@ -500,7 +503,7 @@ learning:
   - System Design
 
 building:
-  - Cake Bakery Management System
+  - F2C Farmer2Customer
   - REST APIs
   - Full Stack Java Applications
 
